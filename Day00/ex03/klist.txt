@@ -1,0 +1,6 @@
+Credentials cache: API:1319
+        Principal: slaanani@1337.MA
+
+  Issued                Expires               Principal
+Aug 27 12:54:23 2018  Aug 27 22:54:23 2018  krbtgt/1337.MA@1337.MA
+Aug 27 15:18:25 2018  Aug 27 22:54:23 2018  host/vogsphere.1337.ma@1337.MA
